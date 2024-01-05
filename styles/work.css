@@ -1,0 +1,14 @@
+img{
+    height: 500px;
+    width: 500px;
+}
+
+   nav >label >input{
+     border: 1px;
+     border-style: solid;
+     border-color: blue;
+
+   }
+   footer{
+     margin-top: 10px;
+   }
