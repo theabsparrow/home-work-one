@@ -1,0 +1,29 @@
+#contest,#feedback{
+    text-align: center;
+    color:red;
+    margin-bottom: 50px;
+}
+#text-aria{
+    display: block;
+    
+}
+#legend{
+    margin-bottom: 30px;
+    
+}
+.textarea{
+    text-align: center;
+    margin-bottom: 30px;
+}
+#footer{
+    margin-top: 20px;
+}
+
+#dropdown{
+    text-align: center;
+}
+
+
+
+    
+    
